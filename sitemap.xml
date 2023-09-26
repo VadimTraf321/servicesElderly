@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="www.example.com">
+    <url>
+        <loc>https://www.example.com/index.php</loc>
+        <lastmod>2023-09-26</lastmod>
+    </url>
+    <url>
+        <loc>https://www.example.com/policy.html</loc>
+        <lastmod>2023-09-26</lastmod>
+    </url>
+    <url>
+        <loc>https://www.example.com/thanks.html</loc>
+        <lastmod>2023-09-26</lastmod>
+    </url>
+     <url>
+        <loc>https://www.example.com/faq.html</loc>
+        <lastmod>2023-09-26</lastmod>
+    </url>
+    <url>
+        <loc>https://www.example.com/blog.html</loc>
+        <lastmod>2023-09-26</lastmod>
+    </url>
+     <url>
+        <loc>https://www.example.com/terms.html</loc>
+        <lastmod>2023-09-26</lastmod>
+    </url>
+</urlset>
